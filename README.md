@@ -27,6 +27,9 @@ However this may be explained by the fact that inflation markers such as the CPI
  <img width="1117" alt="Screen Shot 2024-06-12 at 9 50 40 PM" src="https://github.com/camilledamore/Google-Inflation/assets/157072047/ac219428-78eb-4368-aefe-25a5afe18657">
 
 #### Figure 2:  Inflation rate and Google search rate of the word “inflation” since 2005 for the Canada, Mexico, South Africa, and the United States. 
+<br/>
+<br/>
+
 
  
 <img width="1107" alt="Screen Shot 2024-06-12 at 9 50 29 PM" src="https://github.com/camilledamore/Google-Inflation/assets/157072047/d7cca9d7-af4b-48dd-870b-8ac29606e1b7"> 
