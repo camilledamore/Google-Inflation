@@ -4,7 +4,7 @@ Accurate inflation data takes several months to be reported by government agenci
 
 Oftentimes, people will use Google searches for things they notice. Thus, I set out to answer the question: Can Google searches for inflation predict the inflation rate?
 
-To answer this question, I compared the inflation rate in four countries (Canada, Mexico, South Africa, and the United States) to the Google search rate for the word “inflation.”   Google search data sourced from Trends.Google.com and inflation data sourced from 
+To answer this question, I compared the inflation rate in four countries (Canada, Mexico, South Africa, and the United States) to the Google search rate for the word “inflation.”   Google search data sourced from Trends.Google.com and inflation data sourced from the World Bank (https://www.worldbank.org/en/research/brief/inflation-database). 
 
 Additionally, to further explore other possible keywords that could be correlated to inflation, I examined the correlation of the search "inflation" to the following words for all four countries: "inflation, interest rate, market, job, and trade."  A heatmap of this inquiry can be found below in figure 1. 
 
