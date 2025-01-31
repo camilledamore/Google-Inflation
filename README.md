@@ -40,8 +40,8 @@ However this may be explained by the fact that inflation markers such as the CPI
 ## Conclusion
 
 It is uncertain whether or not inflation rate can be predicted accurately via Google search data. 
-It seems to be a promising predictor for the US and Canada for dates after 2020, but it is unreliable in Mexico and South Africa for all years studied. This is possibly due to variations in internet availability.
+It seems to be a promising predictor for the US and Canada for dates after 2020, but it is unreliable in Mexico and South Africa for all years studied. 
 
-Because there was little promising findings for the keyword "inflation", I did not investigate the trend between the other other five related keywords (interest rate, market, job, and trade) with the recorded inflation rates. This is for sake of time.  However, it may be interesting to repeat analysis with the remaining data. 
+Because there was little promising findings for the keyword "inflation", I did not investigate the trend between the other other five related keywords (interest rate, market, job, and trade) with the recorded inflation rates. It may be interesting to repeat analysis with the remaining data. 
 
 Further analysis in subsequent years is needed to investigate the trend further. 
