@@ -15,11 +15,11 @@ Additionally, to further explore other possible keywords that could be correlate
   
 ## Analysis 
 
-Figures 2 reports the trend for the inflation and search rates over time since 2005 for all four countries, and figure 3 enlarges the graph for the United States.
+Figure 2 reports the trend for the inflation and search rates over time since 2005 for all four countries, and figure 3 enlarges the graph for the United States.
 
 It appears that the inflation rate and search rate are not strongly correlated before the COVID-19 pandemic in 2020 in all countries.
  
-However, Since the beginning of the COVID-19 pandemic, the inflation rate is correlated with the Google search rate for "inflation." During this time period, the actual inflation rate leads the search term, which is promising. This potentially indicates that, shortly after actual inflation increases, people may begin to notice and investigate the rising prices; people search for inflation after the rate has risen. 
+However, since the beginning of the COVID-19 pandemic, the inflation rate is correlated with the Google search rate for "inflation." During this time period, the actual inflation rate leads the search term, which is promising. This potentially indicates that, shortly after actual inflation increases, people may begin to notice and investigate the rising prices; people search for inflation after the rate has risen. 
 
 However this may be explained by the fact that inflation markers such as the CPI are released to the public 1-3 months after, and these public releases during the pandemic—a period of great economic uncertainty—may be driving this trend. 
 
