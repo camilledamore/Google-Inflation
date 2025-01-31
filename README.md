@@ -6,7 +6,7 @@ Oftentimes, people will use Google searches for things they notice. Thus, I set 
 
 To answer this question, I compared the inflation rate in four countries (Canada, Mexico, South Africa, and the United States) to the Google search rate for the word “inflation.”   Google search data sourced from Trends.Google.com and inflation data sourced from the World Bank (https://www.worldbank.org/en/research/brief/inflation-database). 
 
-Additionally, to further explore other possible keywords that could be correlated to inflation, I examined the correlation of the search "inflation" to the following words for all four countries: "inflation, interest rate, market, job, and trade."  A heatmap of this inquiry can be found below in figure 1. 
+Additionally, to further explore other possible keywords that could be correlated to inflation, I examined the correlation of the search rate for the word "inflation" to the following words for all four countries: "inflation, interest rate, market, job, and trade."  A heatmap of this inquiry can be found below in figure 1. 
 
 <img width="1127" alt="Screen Shot 2024-06-12 at 9 50 54 PM" src="https://github.com/camilledamore/Google-Inflation/assets/157072047/7d9dd4b2-c618-4b85-9bc8-cc57362990bd">
 
